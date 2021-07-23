@@ -1,3 +1,3 @@
 # data-analyst
 
-this my project about data minning .
+this my project about some data as assigment .
